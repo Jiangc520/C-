@@ -1,0 +1,8 @@
+﻿  laxi.cpp
+g:\代码库\max and min\max and min\laxi.cpp(87): error C2561: “Insert”: 函数必须返回值
+          g:\代码库\max and min\max and min\laxi.cpp(40) : 参见“Insert”的声明
+g:\代码库\max and min\max and min\laxi.cpp(108): error C2664: “int strcmp(const char *,const char *)”: 无法将参数 1 从“ElemType []”转换为“const char *”
+          与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+g:\代码库\max and min\max and min\laxi.cpp(112): error C2664: “int strcmp(const char *,const char *)”: 无法将参数 1 从“ElemType”转换为“const char *”
+          从整型转换为指针类型要求 reinterpret_cast、C 样式转换或函数样式转换
+g:\代码库\max and min\max and min\laxi.cpp(112): fatal error C1903: 无法从以前的错误中恢复；正在停止编译
